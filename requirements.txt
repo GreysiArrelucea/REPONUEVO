@@ -1,0 +1,14 @@
+jupyter-book
+matplotlib
+numpy
+ghp_import
+ipywidgets
+sympy
+pandas
+causalgraphicalmodels
+random
+math
+sklearn
+scipy
+networkx
+statsmodels

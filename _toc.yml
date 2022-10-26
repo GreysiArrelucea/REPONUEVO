@@ -7,8 +7,8 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
-- file: 20200279_r1
-- file: 20200279_r2
-- file: 20200279_r3
-- file: 20200279_r4
-- file: 20200279_r5
+- file: Capítulo 1 - El modelo de Ingreso-Gasto Keynesiano
+- file: Capítulo 2 - La Curva IS
+- file: Capítulo 3 - El Mercado Monetario y la Curva LM
+- file: Capítulo 4 - El Modelo IS-LM
+- file: Capítulo 5 - El Modelo DA-OA
